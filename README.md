@@ -1,6 +1,6 @@
 # Benigno Soluções
 
-# atena.log
+# Benigno.log
 
 **Projeto da Disciplina — Sistema de Gestão de Competências**
 1ª Etapa: Levantamento de Requisitos · Pontifícia Universidade Católica de Goiás · 2026/2
@@ -11,7 +11,7 @@
 
 O planejamento e o andamento de todas as atividades do grupo estão no quadro Kanban:
 
-### [▸ Quadro de atividades — atena.log](https://github.com/users/grazidsm/projects/1/views/1)
+### [▸ Quadro de atividades — Benigno.log](https://github.com/users/grazidsm/projects/1/views/1)
 
 Cada atividade é uma *issue* vinculada ao quadro, com responsável e marco correspondente.
 As colunas seguem o fluxo **To do → In Progress → Done**.
