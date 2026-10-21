@@ -23,9 +23,9 @@ As colunas seguem o fluxo **To do → In Progress → Done**.
 | Nome | Função no grupo | GitHub |
 |---|---|---|
 | Grazieli da Silva Macedo | Gerência do projeto e requisitos | [@grazidsm](https://github.com/grazidsm) |
-| *(preencher)* | Entrevistas e transcrições | [@LucasRikelmi](https://github.com/LucasRikelmi) |
-| *(preencher)* | Matriz de rastreabilidade | [@alancardete](https://github.com/alancardete) |
-| *(preencher)* | Questionários e sistema análogo | [@kamy-beningo](https://github.com/kamy-beningo) |
+| Lucas Rikelmi Macedo | Entrevistas e transcrições | [@LucasRikelmi](https://github.com/LucasRikelmi) |
+| André AlanCardete | Matriz de rastreabilidade | [@alancardete](https://github.com/alancardete) |
+| Kamilly Benigno | Questionários e sistema análogo | [@kamy-beningo](https://github.com/kamy-beningo) |
 
 ---
 
